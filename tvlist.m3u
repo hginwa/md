@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1,IN: ZEE CINEMA
+http://xtreme.webhop.me:8000/live/iFDF7hpXsC/HMTnU6Jh06/5033.ts
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://singteltv.com.sg/_channels/pic_ch678.jpg" group-title="INDIA",NDTV 24x7
 http://ndtvstream-lh.akamaihd.net:80/i/ndtv_24x7_1@300633/master.m3u8
 
